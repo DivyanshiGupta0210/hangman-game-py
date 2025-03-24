@@ -94,8 +94,7 @@ def main():
             exit()  # Exit the program
         else:
             print("Invalid choice! Only enter 'y' for Yes or 'n' for No.")
-
-print("Thanks for playing!")
+        print("Thanks for playing!")
    
 if __name__ == "__main__":
     main() 
